@@ -1,0 +1,28 @@
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.exe
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.deps.json
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.runtimeconfig.json
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.runtimeconfig.dev.json
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.dll
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.pdb
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.csproj.AssemblyReference.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.AssemblyInfoInputs.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.AssemblyInfo.cs
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.csproj.CoreCompileInputs.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.dll
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.pdb
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.genruntimeconfig.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.exe
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.deps.json
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.runtimeconfig.json
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.runtimeconfig.dev.json
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.dll
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\bin\Debug\netcoreapp3.1\PracticaDeProgramacion.pdb
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.csproj.AssemblyReference.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.AssemblyInfoInputs.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.AssemblyInfo.cs
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.csproj.CoreCompileInputs.cache
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.dll
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.pdb
+E:\Almacenamiento (E)\ESCRITORIO (E)\AULA VIRTUAL\Clase de C#\PracticaDeProgramacionS\PracticaDeProgramacion\obj\Debug\netcoreapp3.1\PracticaDeProgramacion.genruntimeconfig.cache
